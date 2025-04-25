@@ -26,7 +26,6 @@
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_gravity="center_horizontal"
-        layout
         android:src="@drawable/bank_login"
         android:layout_marginBottom="10dp"
         android:layout_marginTop="25dp"/>
@@ -100,7 +99,7 @@
                 android:layout_width="120sp"
                 android:layout_height="wrap_content"
                 android:text="Novo no AppBank?"
-                android:layout_marginLeft="100sp"
+                android:layout_marginLeft="110sp"
                 android:layout_marginTop="3dp"/>
 
             <TextView
@@ -111,7 +110,7 @@
                 android:textAlignment="center"
                 android:layout_marginTop="3dp"
                 android:textColor="#009688"
-                android:layout_marginLeft="215sp"/>
+                android:layout_marginLeft="225sp"/>
 
         </RelativeLayout>
 
